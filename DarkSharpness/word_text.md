@@ -448,7 +448,7 @@ OK，我们简单总结一下。
 
 至少，于我个人而言，东方，就是这样的存在。
 
-(TODO: 具体举例 排比堆砌?)
+(TODO: 具体举例 排比堆砌? 总之体现幻想 + 同人精神)
 
 [reference](https://www.bilibili.com/video/BV1bG4y1n75f/)
 
@@ -480,8 +480,10 @@ OK，我们简单总结一下。
 
 [Hastin_Trudeau](https://github.com/zsq259)
 
-Jinbo_Hu
+[Jinbo_Hu]()
 
 [koishi_x](https://github.com/koishi-x)
 
-smarthehe
+[smarthehe](https://github.com/smarthehe412)
+
+[yyu](https://apex.sjtu.edu.cn/members/yyu)
